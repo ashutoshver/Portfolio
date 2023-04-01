@@ -27,7 +27,7 @@
 }
 .right .img{
     /* max-width: 100%; */
-    width: 350px;
+    width: 100%;
     border: 1px solid #333;
 }
 .right .top{
@@ -42,11 +42,11 @@
     z-index: 5;
 }
 
-.skills{
+/* .skills{
     text-align: center;
     margin-bottom: 2rem;
     margin-top: 2rem;
-}
+} */
 .skills h1{
     font-size: 60px;
 }

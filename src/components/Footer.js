@@ -34,7 +34,9 @@ const Footer = () => {
                 </div>
                 <div className='right'>
                     <h4>About Myself</h4>
-                    <p>This is me Ashutosh Verma. I am a frontend Developer.</p>
+                    <p>This is me Ashutosh Verma. I am a frontend Developer.
+                        I have a skills in HTML, CSS, Javascript, ReactJs.
+                    </p>
                     <div className='social'>
                         <FaFacebook size={30} style={{ color: 'white', marginRight: "1rem" }} />
                         <FaTwitter size={30} style={{ color: 'white', marginRight: "1rem" }} />

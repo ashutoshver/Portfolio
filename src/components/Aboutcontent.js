@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 
 const Aboutcontent = () => {
     return (
-        // <>
-        //     <div className='skills'>
-        //         <h1>Skills</h1>
-        //         <p>HTML, CSS, Javascript, ReactJs</p>
-        //     </div>
+        <div>
+            <div className='skills'>
+                <h1>Skills</h1>
+                <p>HTML, CSS, Javascript, ReactJs</p>
+            </div>
             <div className='about'>
                 <div className='left'>
                     <h1>Who Am I?</h1>
@@ -34,8 +34,8 @@ const Aboutcontent = () => {
                     </div>
                 </div>
             </div>
+        </div>
 
-        // </>
     )
 }
 
